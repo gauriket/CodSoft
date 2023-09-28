@@ -6,30 +6,24 @@ Welcome to my CodSoft Internship Tasks Submission Repository! This repository co
 
 1. **Task 1: MOVIE GENRE CLASSIFICATION**
    - Description: A machine learning model that can predict the genre of a movie based on its plot summary or other textual information. Using techniques like TF-IDF and LSTM.
-   - File(s): [MOVIE GENRE CLASSIFICATION.ipynb]
 
-2. **Task 2: [Task Name]**
-   - Description: Provide a brief description of the task.
-   - File(s): [File Name(s)] - Link to the relevant files.
+2. **Task 2: CREDIT CARD FRAUD DETECTION**
+   - Description: a model to detect fraudulent credit card transactions.
 
-3. **Task 3: [Task Name]**
-   - Description: Provide a brief description of the task.
-   - File(s): [File Name(s)] - Link to the relevant files.
+3. **Task 3: BANK CUSTOMER CHURN PREDICTION**
+   - Description: a model to predict customer churn for a subscription-based service or business.
 
 
 4. **Task 4: SPAM SMS DETECTION**
    - Description: An AI model that can classify SMS messages as spam or legitimate. Using TF-IDF and Logistic Regression Model to identify spam messages.
-   - File(s): [SPAM SMS DETECTION.ipynb]
-
-5. **Task 5: [Task Name]**
-   - Description: Provide a brief description of the task.
-   - File(s): [File Name(s)] - Link to the relevant files.
 
 ## Folder Structure
 
 Here's a brief overview of the repository structure:
 
 - `Genre Classification/`: Contains materials related to Task 1.
+- `Credit Card/`: Contains materials related to Task 2.
+- `churn/`: Contains materials related to Task 3.
 - `spam/`: Contains materials related to Task 4.
 - ...
 
