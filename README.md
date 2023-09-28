@@ -23,8 +23,8 @@ Here's a brief overview of the repository structure:
 
 - `Genre Classification/`: Contains materials related to Task 1.
 - `Credit Card/`: Contains materials related to Task 2.
-- `churn/`: Contains materials related to Task 3.
-- `spam/`: Contains materials related to Task 4.
+- `Churn Prediction/`: Contains materials related to Task 3.
+- `Spam SMS Detection/`: Contains materials related to Task 4.
 - ...
 
 ## How to Access Task Solutions
